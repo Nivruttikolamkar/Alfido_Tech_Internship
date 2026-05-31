@@ -162,3 +162,10 @@ Alfido_Tech_Sales_Analysis
 ├── README.md
 ├── Sales_Analysis.ipynb
 ├── sales.csv
+
+## website traffic analysis
+Alfido_Tech_Internship/
+│
+├── Website_Traffic_Analysis/
+│   ├── Website_Traffic_Analysis.ipynb
+│   ├── Website_Traffic_Report.pdf
