@@ -97,3 +97,72 @@ Customer_Behavior_Analysis/
 ├── Customer_Behavior_Analysis.pdf
 ├── customer_behavior_analysis.csv
 ├── README.md
+# Alfido Tech Sales Performance Analysis
+
+## Project Objective
+
+Analyze sales performance across regions, categories, products, and time periods to identify trends, best-selling products, and business improvement opportunities.
+
+## Dataset
+
+Superstore Sales Dataset containing:
+
+* Orders
+* Customers
+* Products
+* Categories
+* Regions
+* Sales Information
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+## Key KPIs
+
+* Total Revenue
+* Total Orders
+* Average Order Value (AOV)
+* Regional Performance
+* Category Performance
+* Product Performance
+
+## Analysis Performed
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Regional Sales Analysis
+* Category and Sub-Category Analysis
+* Top & Bottom Products Analysis
+* Monthly and Yearly Sales Trends
+* Customer Segment Analysis
+
+## Key Findings
+
+* Identified top-performing regions.
+* Identified best-selling products.
+* Analyzed seasonal sales patterns.
+* Evaluated customer segment contribution.
+
+## Recommendations
+
+1. Focus marketing on high-performing products.
+2. Improve sales in underperforming regions.
+3. Optimize inventory planning.
+4. Leverage seasonal demand trends.
+5. Increase Average Order Value through product bundling.
+
+## Author
+
+Nivrutti Kolamkar
+
+Alfido_Tech_Sales_Analysis
+│
+├── README.md
+├── Sales_Analysis.ipynb
+├── sales.csv
