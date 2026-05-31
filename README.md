@@ -88,15 +88,11 @@ Customers were segmented using RFM analysis and clustering techniques to identif
 
 ---
 
-## Project Structure
+## SALE PERFORMANCE ANALYSIS
+
 
 ```text
-Customer_Behavior_Analysis/
-│
-├── Customer_Behavior_Analysis.ipynb
-├── Customer_Behavior_Analysis.pdf
-├── customer_behavior_analysis.csv
-├── README.md
+
 # Alfido Tech Sales Performance Analysis
 
 ## Project Objective
@@ -104,7 +100,7 @@ Customer_Behavior_Analysis/
 Analyze sales performance across regions, categories, products, and time periods to identify trends, best-selling products, and business improvement opportunities.
 
 ## Dataset
-
+https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales
 Superstore Sales Dataset containing:
 
 * Orders
